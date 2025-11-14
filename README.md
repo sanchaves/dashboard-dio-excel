@@ -8,12 +8,5 @@ Faturamento total
 
 Ticket médio
 
-Quantidade total de vendas
-
-Modelo mais vendido
-
-Categoria mais procurada (Sport, Trail, Scooter, Street…)
-
-Região com maior volume de vendas
 
 Os dados utilizados são fictícios, mas foram estruturados de forma realista para simular um cenário de vendas no mercado de motos.
